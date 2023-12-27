@@ -1,23 +1,5 @@
 # Landing Page Template com React JS e Material UI :dart:
-
-Site: https://hbsales.onrender.com/
-
-![link Home do site](https://raw.githubusercontent.com/alessandradocouto/landing-page-template-reactjs/master/src/assets/Home.png)
-
-
-![link About do site](https://raw.githubusercontent.com/alessandradocouto/landing-page-template-reactjs/master/src/assets/About.png)
-
-![link Contact do site](https://raw.githubusercontent.com/alessandradocouto/landing-page-template-reactjs/master/src/assets/Contact.png)
-
-
-
 ## Índice
-
-- [Sobre](https://github.com/alessandradocouto/landing-page-template-reactjs#sobre)
-- [Aprendizados](https://github.com/alessandradocouto/landing-page-template-reactjs#aprendizados)
-- [Dependências](https://github.com/alessandradocouto/landing-page-template-reactjs#dependências)
-
-
 
 ## Sobre
 
@@ -154,8 +136,6 @@ A propriedade sx permite que você trabalhe com um superconjunto de CSS que empa
 </Grid>
 ```
 
-
-:heavy_check_mark: Uso de Componentes reutilizáveis em React;
 
 Conteúdo do componente Title:
 
