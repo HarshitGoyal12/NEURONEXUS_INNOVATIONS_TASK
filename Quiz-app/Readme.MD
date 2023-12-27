@@ -47,4 +47,10 @@ Aim for the top spot on the leaderboard by achieving high scores in various quiz
 
 
 Here are some images of the website
+![1st page](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/4d70fcad-0209-4dc2-a4c6-8d9d7c1e6976)
+![2nd page](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/b0b37595-da08-448c-9f16-19f0ed69b330)
+![3rd page](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/cd457d52-822b-4b24-b8d9-530a25c494cc)
+![4th page](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/3879e0e8-7134-4025-ab57-38d3eebeac59)
+![5th page](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/0aa0a415-768b-4e01-be9a-be78d80d2d79)
+
 
