@@ -50,4 +50,5 @@ Both employers and job seekers can manage their profiles to keep information up-
 Database
 This application relies on a robust database system to store and manage job-related data. Depending on your preference and requirements, you can choose between MongoDB or PostgreSQL as the backend database.
 
-Security and Privacy
+
+here are some screen shot of the project
