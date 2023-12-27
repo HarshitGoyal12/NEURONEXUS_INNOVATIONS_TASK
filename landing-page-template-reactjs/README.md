@@ -4,8 +4,11 @@
 ## Sobre
 
 Landing page Template em React JS feita para desenvolvedores/designs que querem criar rapidamente uma landing page profissional para seus projetos open source. 
+Link of the Project
+https://neuronexus-tasks1.vercel.app/
 
-
+Link of the Repository
+https://github.com/HarshitGoyal12/NeuroNexus-s-Tasks
 ## Aprendizados
 
 :heavy_check_mark: React Router v6+ no DOM
