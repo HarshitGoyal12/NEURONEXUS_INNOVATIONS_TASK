@@ -51,4 +51,7 @@ Database
 This application relies on a robust database system to store and manage job-related data. Depending on your preference and requirements, you can choose between MongoDB or PostgreSQL as the backend database.
 
 
-here are some screen shot of the project
+here are some screen shot of the project:
+![1st](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/7824e794-0690-475c-a634-fb52541f5638)
+![2nd](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/21cc66be-0d36-4fe6-94cb-845f816ede03)
+![3rd ](https://github.com/HarshitGoyal12/NEURONEXUS_INNOVATIONS_TASK/assets/98648734/64451775-414c-4dfc-9ce5-d788cf8b3030)
